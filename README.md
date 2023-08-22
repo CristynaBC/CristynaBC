@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a junior Front-End Developer.
+I'm a junior Front-End Developer nad Informations Systems student!
 <!--
 **CristynaBC/CristynaBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

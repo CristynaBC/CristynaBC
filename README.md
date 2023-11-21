@@ -1,21 +1,13 @@
-### Hi there 👋
+
+![Hello There](https://media.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif)
+---
+I'm Cristyna Becker Costa, but you can call me Crys
+
 I'm a Informations Systems student!
 
 I'm studying to become a full-stack developer, I have experience working with Angular from the front-end development bootcamp LABORATORIA!
 
 Now, I'm focusing my studies on object oriented programming with JAVA :)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristynaBC&langs_count=8)
 <!--
-**CristynaBC/CristynaBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

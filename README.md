@@ -3,7 +3,7 @@ I'm a Informations Systems student!
 
 I'm studying to become a full-stack developer, I have experience working with Angular from the front-end development bootcamp LABORATORIA!
 
-I'm currently focusing my studies on object oriented programming with JAVA :)
+Now, I'm focusing my studies on object oriented programming with JAVA :)
 
 <!--
 **CristynaBC/CristynaBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
